@@ -1,0 +1,6 @@
+{
+  "name": "AstraParfum - Astrological Perfumery",
+  "description": "Aplikasi racik parfum astrologi eksklusif dengan panduan ahli parfum & astrolog, palet golden purple blue, dan kurasi aroma berdasarkan zodiak serta fungsi acara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
